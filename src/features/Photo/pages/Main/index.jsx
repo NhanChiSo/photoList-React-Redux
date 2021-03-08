@@ -11,7 +11,7 @@ import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useHistory } from "react-router-dom";
 import { Button, Col, Container, Input, Row } from "reactstrap";
-import "./MainPage.css";
+import "./MainPage.scss";
 import { PHOTO_CATEGORY_OPTIONS } from "constants/global";
 
 function MainPage() {
