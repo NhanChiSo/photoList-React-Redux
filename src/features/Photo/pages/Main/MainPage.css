@@ -1,0 +1,13 @@
+.photo-main a {
+  text-decoration: none;
+  color: white;
+}
+
+.photo-main .row {
+  align-items: center;
+}
+
+.category-search > .active {
+  color: white !important;
+  transition: 0.3s;
+}
