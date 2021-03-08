@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/photoList-React-Redux/static/css/main.fead7d56.chunk.css",
+    "main.js": "/photoList-React-Redux/static/js/main.a3fed9a2.chunk.js",
+    "main.js.map": "/photoList-React-Redux/static/js/main.a3fed9a2.chunk.js.map",
+    "runtime-main.js": "/photoList-React-Redux/static/js/runtime-main.cacd6f5e.js",
+    "runtime-main.js.map": "/photoList-React-Redux/static/js/runtime-main.cacd6f5e.js.map",
+    "static/js/2.6c85ab58.chunk.js": "/photoList-React-Redux/static/js/2.6c85ab58.chunk.js",
+    "static/js/2.6c85ab58.chunk.js.map": "/photoList-React-Redux/static/js/2.6c85ab58.chunk.js.map",
+    "static/css/3.1bb24b15.chunk.css": "/photoList-React-Redux/static/css/3.1bb24b15.chunk.css",
+    "static/js/3.b3dcf906.chunk.js": "/photoList-React-Redux/static/js/3.b3dcf906.chunk.js",
+    "static/js/3.b3dcf906.chunk.js.map": "/photoList-React-Redux/static/js/3.b3dcf906.chunk.js.map",
+    "static/css/4.05e892bb.chunk.css": "/photoList-React-Redux/static/css/4.05e892bb.chunk.css",
+    "static/js/4.c26884eb.chunk.js": "/photoList-React-Redux/static/js/4.c26884eb.chunk.js",
+    "static/js/4.c26884eb.chunk.js.map": "/photoList-React-Redux/static/js/4.c26884eb.chunk.js.map",
+    "static/js/5.24c4751c.chunk.js": "/photoList-React-Redux/static/js/5.24c4751c.chunk.js",
+    "static/js/5.24c4751c.chunk.js.map": "/photoList-React-Redux/static/js/5.24c4751c.chunk.js.map",
+    "index.html": "/photoList-React-Redux/index.html",
+    "static/css/3.1bb24b15.chunk.css.map": "/photoList-React-Redux/static/css/3.1bb24b15.chunk.css.map",
+    "static/css/4.05e892bb.chunk.css.map": "/photoList-React-Redux/static/css/4.05e892bb.chunk.css.map",
+    "static/css/main.fead7d56.chunk.css.map": "/photoList-React-Redux/static/css/main.fead7d56.chunk.css.map",
+    "static/js/3.b3dcf906.chunk.js.LICENSE.txt": "/photoList-React-Redux/static/js/3.b3dcf906.chunk.js.LICENSE.txt",
+    "static/media/blue-bg.93b683dc.jpg": "/photoList-React-Redux/static/media/blue-bg.93b683dc.jpg",
+    "static/media/colorful-bg.95c0fb34.jpg": "/photoList-React-Redux/static/media/colorful-bg.95c0fb34.jpg",
+    "static/media/Banner.scss": "/photoList-React-Redux/static/media/orange-bg.a98c2734.jpg",
+    "static/media/pink-bg.d6dafc0a.jpg": "/photoList-React-Redux/static/media/pink-bg.d6dafc0a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cacd6f5e.js",
+    "static/css/3.1bb24b15.chunk.css",
+    "static/js/3.b3dcf906.chunk.js",
+    "static/css/main.fead7d56.chunk.css",
+    "static/js/main.a3fed9a2.chunk.js"
+  ]
+}
