@@ -71,7 +71,7 @@ function App() {
     <div className="photo-app">
       {/* Suspense sẽ render ra trong lúc load lazy (bắt buộc phải có cùng lazy) */}
       <Suspense fallback={<div>Loading...</div>}>
-        <BrowserRouter>
+        <BrowserRouter basename="/photoList-React-Redux">
           <Header />
 
           <Switch>

@@ -13,6 +13,7 @@ import { Link, useHistory } from "react-router-dom";
 import { Button, Col, Container, Input, Row } from "reactstrap";
 import "./MainPage.scss";
 import { PHOTO_CATEGORY_OPTIONS } from "constants/global";
+import {removeActive} from "utils/common"
 
 function MainPage() {
   const dispatch = useDispatch();
@@ -32,16 +33,15 @@ function MainPage() {
   };
 
   const handleSearch = (e) => {
+    removeActive(".category-search > button");
+    
     const searchText = e.target.value;
     const action = searchPhoto(searchText);
     dispatch(action);
   };
 
   const handleSearchCategory = (e) => {
-    var btnCategory = document.querySelectorAll(".category-search > button");
-    for (let i = 0; i < btnCategory.length; i++) {
-      btnCategory[i].classList.remove("active");
-    }
+    removeActive(".category-search > button");
     e.target.classList.add("active");
 
     const action = searchCategory(e.target.value);
